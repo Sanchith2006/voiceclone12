@@ -1,0 +1,90 @@
+{
+    "intents": [
+      {
+        "tag": "01",
+        "patterns": ["A story about Kraken Attack"],
+        "responses": ["One dark night, there were sailors lost upon a stormy sea. They had been out there for many a long year. Suddenly"]
+      },
+      {
+        "tag": "02",
+        "patterns": ["Create a mystery story set in a small town with a detective."],
+        "responses": ["Detective Harris parked his car on the deserted main street of Willow Creek, a town that seemed to be holding its breath. The once vibrant community had fallen silent in the wake of a series of mysterious disappearances that sent shivers down the spine of every resident. The air was thick with an eerie tension as he stepped out of his car, determined to unravel the enigma that gripped this seemingly peaceful town.The townsfolk, with guarded expressions, eyed Detective Harris as he made his way to the local diner, the only place that seemed to still have signs of life. As he entered, the bell above the door chimed, and a hushed silence enveloped the room. The detective could feel the weight of their collective secrets hanging in the air.Behind the counter, a weary waitress named Maggie looked up, her eyes harboring a mix of fear and curiosity. Harris approached, introducing himself and inquiring about the mysterious disappearances. Maggie hesitated before cautiously sharing tales of strange occurrences – whispers in the wind, strange shadows in the night, and a pervasive sense of unease that permeated the town."]
+      },
+      {
+        "tag": "03",
+        "patterns": ["Generate a mystery story involving a locked room."],
+        "responses": ["Detective Monroe stood before the locked room, its heavy door sealing the secrets within. The renowned scientist, Dr. Victor Lawrence, lay lifeless on the floor. The air was thick with tension as the detective surveyed the room, a labyrinth of scientific equipment and shelves filled with arcane formulas. The circumstances surrounding Dr. Lawrence's death were shrouded in mystery, and the detective's keen instincts told him that unraveling this puzzle would require a meticulous examination of both the crime scene and the scientist's enigmatic work.Monroe began by questioning the team of researchers who had collaborated with Dr. Lawrence. Alibis clashed and testimonies contradicted each other, creating a tapestry of confusion. As he sifted through the tangled web of information, the detective uncovered simmering rivalries and professional jealousy among the scientists, each vying for recognition in the competitive field.In his pursuit of the truth, Detective Monroe discovered hidden passageways and secret compartments within the laboratory. It became evident that Dr. Lawrence had been conducting experiments beyond the scope of his colleagues' knowledge, delving into uncharted territories of scientific inquiry. The locked room was a fortress of innovation, guarded not just by physical barriers but also by the scientist's clandestine experiments."]
+      },
+      {
+        "tag": "04",
+        "patterns": ["Craft a mystery about a stolen painting at an art gallery."],
+        "responses": ["The prestigious art gallery became a crime scene when a masterpiece disappeared during an exhibition. Detective Parker deciphered coded messages and false identities, unraveling an art heist orchestrated by a master forger."]
+      },
+      {
+        "tag": "05",
+        "patterns": ["Tell me a mystery story set in a vintage bookstore."],
+        "responses": ["Detective Harris parked his car on the deserted main street of Willow Creek, a town that seemed to be holding its breath. The once vibrant community had fallen silent in the wake of a series of mysterious disappearances that sent shivers down the spine of every resident. The air was thick with an eerie tension as he stepped out of his car, determined to unravel the enigma that gripped this seemingly peaceful town.The townsfolk, with guarded expressions, eyed Detective Harris as he made his way to the local diner, the only place that seemed to still have signs of life. As he entered, the bell above the door chimed, and a hushed silence enveloped the room. The detective could feel the weight of their collective secrets hanging in the air.Behind the counter, a weary waitress named Maggie looked up, her eyes harboring a mix of fear and curiosity. Harris approached, introducing himself and inquiring about the mysterious disappearances. Maggie hesitated before cautiously sharing tales of strange occurrences – whispers in the wind, strange shadows in the night, and a pervasive sense of unease that permeated the town.Undeterred, Detective Harris delved deeper into the community's history, uncovering long-buried secrets and ancient folklore that hinted at a darker truth lurking beneath the surface. As he questioned the residents, he discovered that each missing person was somehow linked to a local legend, a tale of a vengeful spirit seeking justice for a long-forgotten crime."]
+      },
+      {
+        "tag": "06",
+        "patterns": ["Craft a mystery about a missing heirloom during a family reunion."],
+        "responses": ["Investigator Harper found herself amidst the opulent setting of the Wentworth family reunion when an ancient heirloom vanished, setting the stage for a mystery that reached into the depths of the family's history. As she delved into the sprawling estate's intricacies, Harper unearthed buried family secrets, exposing a feud that had silently spanned generations and laid the foundation for the enigmatic disappearance. The sprawling Wentworth estate, initially a scene of celebration, transformed into a labyrinth of hidden grudges and long-buried animosities, challenging Harper to untangle the web of deception that surrounded the missing heirloom and the fractured bonds within the family."]
+      },
+      {
+        "tag": "07",
+        "patterns": ["Generate a story about a mysterious illness striking a small town."],
+        "responses": ["A peculiar illness swept through the peaceful town of Crestwood. Dr. Bennett unraveled the medical mystery, discovering a hidden connection between the townspeople and a long-forgotten experiment."]
+      },
+      {
+        "tag": "08",
+        "patterns": ["Tell me a mystery involving a cryptic message left at a crime scene."],
+        "responses": ["At the crime scene, a cryptic message hinted at a larger conspiracy. Detective Turner decoded the message, leading to an underground network orchestrating crimes for a mysterious cause."]
+      },
+      {
+        "tag": "09",
+        "patterns": ["Create a mystery story set in a haunted mansion with a ghostly twist."],
+        "responses": ["In the haunted mansion of Blackwood Manor, a ghostly figure led Detective Roberts through the ethereal and material realms. Solving the mystery meant unraveling the ghost's tragic past."]
+      },
+      {
+        "tag": "10",
+        "patterns": ["Craft a mystery about a series of disappearances in a bustling city."],
+        "responses": ["People vanished without a trace in the heart of the city. Detective Ramirez navigated through the urban labyrinth, discovering an underground society orchestrating the disappearances for an unknown purpose."]
+      },
+      {
+        "tag": "11",
+        "patterns": ["Generate a mystery involving a cursed artifact at an archaeological dig."],
+        "responses": ["During an archaeological dig, a cursed artifact surfaced, leading to a series of unexplained incidents. Archaeologist Dr. Sullivan had to uncover the artifact's origin and break the curse before it claimed more lives."]
+      },
+      {
+        "tag": "12",
+        "patterns": ["Tell me a mystery about a missing scientist in a high-tech research facility."],
+        "responses": ["Dr. Evelyn Simmons disappeared from the state-of-the-art research facility. Investigator Marshall delved into the world of experimental technology and corporate espionage to uncover the truth."]
+      },
+      {
+        "tag": "13",
+        "patterns": ["Craft a mystery involving a secret society and a hidden treasure."],
+        "responses": ["A cryptic map led Detective Foster to a secret society's hidden treasure. As he deciphered ancient symbols and navigated booby-trapped passages, he uncovered the society's age-old quest for immortality."]
+      },
+      {
+        "tag": "14",
+        "patterns": ["Generate a story about a murder at a glamorous film awards ceremony."],
+        "responses": ["Amidst the glitz and glamour of the film awards, a celebrated actress was found murdered. Detective Shaw unraveled jealousy and rivalry, discovering the dark side of fame in the world of cinema."]
+      },
+      {
+        "tag": "15",
+        "patterns": ["Create a mystery set in a futuristic virtual reality world with a missing programmer."],
+        "responses": ["Programmer Alex vanished within the virtual realms of Cyberspace City. Detective Vega entered the digital world, uncovering a conspiracy that blurred the lines between reality and virtual existence."]
+      },
+      {
+        "tag": "16",
+        "patterns": ["Tell me a story about a mysterious series of events in an abandoned amusement park."],
+        "responses": ["In the eerie silence of an abandoned amusement park, strange events unfolded. Detective Miller explored the decaying rides and faded memories, discovering a connection to a long-forgotten tragedy."]
+      },
+      {
+        "tag": "17",
+        "patterns": ["Craft a mystery involving a missing manuscript in a famous author's estate."],
+        "responses": ["At the estate of the renowned author, a missing manuscript threatened to rewrite literary history. Detective Bennett unraveled the author's complex legacy, revealing a tale of passion, betrayal, and lost masterpieces."]
+      }
+    ]
+  }
+  
